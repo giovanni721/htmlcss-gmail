@@ -1,0 +1,33 @@
+body{
+    background: #a4abb0 url("https://stmed.net/sites/default/files/lakes-wallpapers-27929-5139019.jpg") no-repeat center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    text-align: center;
+
+
+}
+
+main{
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+}
+
+section{
+    text-align: left;
+    margin: auto;
+}
+
+#upper{
+    margin-bottom: 60px;
+}
+
+.mail{
+    background: #a4abb0;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    text-align: left;
+}
